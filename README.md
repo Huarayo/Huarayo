@@ -42,3 +42,8 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <a href="https://www.instagram.com/leohuarayo/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a> 
   <a href="https://www.linkedin.com/in/huarayo-leonardo-08601525b/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo" >
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
