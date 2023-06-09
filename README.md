@@ -44,5 +44,5 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayoe&theme=transparent" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=transparent" >
 </div>
