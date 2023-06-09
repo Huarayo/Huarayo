@@ -1,7 +1,8 @@
 <h1>Hi <img data-target="animated-image.replacedImage" alt="176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: block; opacity: 1;"> My name is Leonardo Huarayo</h1>
 <h2>Full stack developer</h2>
+<p>
 Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, encontré mi pasión en la programación y día a día sigo perfeccionandome en nuevas tecnologías y lenguajes. 🌟Soy una persona perseverante, responsable, organizada, detallada, curiosa, proactiva, me gusta trabajar en equipo o solo, me adapto fácilmente a los cambios y me gustan los desafíos. 🧡🚀 🌍 Vivo en Mendoza - Argentina ✉️ Puedes contactarme a leohuarayo@gmail.com 🧠 Estoy aprendiendo Nuevos lenguajes y profundizando los que ya tengo. ⚡ Cuando no estoy programando seguramente estoy entrenando o leyendo algo! :book: ///////////////////////////////////////////////////////////////////////////////////////////////////// English 🌟I am a Full Stack Developer 👩‍💻, I found my passion in programming and day by day I continue to perfect myself in new technologies and technologies. 🌟I am a persevering, responsible, organized, detailed, curious, proactive person, I like to work in a team or alone, I easily adapt to changes and I like challenges. 🧡🚀
-
+</p>
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>&nbsp; I'm based in Argentina</li>
@@ -45,4 +46,4 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 <p>
   <b>Top Repositories</b>
 </p>
-<div width="100%" align="center" dir="auto"><a href="https://github.com/Huarayo/chat-realtime" align="left"></a><a href="https://github.com/Huarayo/Portafolio" align="right"><img align="right" width="45%" src="https://camo.githubusercontent.com/59dc2314ff6bcfe409afa31efd688b39848615c46e265207cabbc66c5c16792f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d617274696e736f7361666572267265706f3d446f6e64655375656e612d267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=martinsosafer&amp;repo=DondeSuena-&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a></div>
+<div width="100%" align="center" dir="auto"><a href="https://github.com/Huarayo/chat-realtime" align="left"></a><a href="https://github.com/Huarayo/Portafolio" align="right"></a></div>
