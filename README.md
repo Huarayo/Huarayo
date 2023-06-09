@@ -46,6 +46,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" >
-  ![Estadísticas de Wakatime de Huarayo](https://github-readme-stats.vercel.app/api/wakatime?username=huarayo)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=huarayoa&show_icons=true&theme=radical">
 </div>
 
