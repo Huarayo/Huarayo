@@ -42,8 +42,3 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <a href="https://www.instagram.com/leohuarayo/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a> 
   <a href="https://www.linkedin.com/in/huarayo-leonardo-08601525b/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p>
-
-<p>
-  <b>Top Repositories</b>
-</p>
-<div width="100%" align="center" dir="auto"><a href="https://github.com/Huarayo/chat-realtime" align="left"></a><a href="https://github.com/Huarayo/Portafolio" align="right"></a></div>
