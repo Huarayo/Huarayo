@@ -45,4 +45,28 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 <p>
   <b>Top Repositories</b>
 </p>
-<div width="100%" align="center" dir="auto"><a href="https://github.com/Huarayo/chat-realtime" align="left"><img align="left" width="45%" src="https://camo.githubusercontent.com/61ad9104751f62dd8f193a856a93ba085f68450f9d4552d9d4ddf0dc29d431fc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d617274696e736f7361666572267265706f3d766964656f67616d65736170692d70692d68656e7279626f6f7463616d70267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=martinsosafer&amp;repo=videogamesapi-pi-henrybootcamp&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a><a href="https://github.com/Huarayo/Portafolio" align="right"><img align="right" width="45%" src="https://camo.githubusercontent.com/59dc2314ff6bcfe409afa31efd688b39848615c46e265207cabbc66c5c16792f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d617274696e736f7361666572267265706f3d446f6e64655375656e612d267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=martinsosafer&amp;repo=DondeSuena-&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a></div>
+<div width="100%" align="center" dir="auto"><a href="https://github.com/Huarayo/chat-realtime" align="left"><li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
+      <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
+        <div class="pinned-item-list-item-content">
+          <div class="d-flex width-full flex-items-center position-relative">
+            <a href="/Huarayo/Portafolio" class="text-bold flex-auto min-width-0">
+              <span class="repo" title="Portafolio">Portafolio</span>
+            </a>
+            <span></span><span class="Label Label--secondary v-align-middle ml-1">Public</span>
+          </div>
+
+
+          <p class="pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3">
+            
+          </p>
+
+          <p class="mb-0 f6 color-fg-muted">
+              <span class="d-inline-block mr-3">
+  <span class="repo-language-color" style="background-color: #e34c26"></span>
+  <span itemprop="programmingLanguage">HTML</span>
+</span>
+
+          </p>
+        </div>
+      </div>
+    </li></a><a href="https://github.com/Huarayo/Portafolio" align="right"><img align="right" width="45%" src="https://camo.githubusercontent.com/59dc2314ff6bcfe409afa31efd688b39848615c46e265207cabbc66c5c16792f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d617274696e736f7361666572267265706f3d446f6e64655375656e612d267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=martinsosafer&amp;repo=DondeSuena-&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en" style="max-width: 100%;"></a></div>
