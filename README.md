@@ -62,7 +62,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=react-gif-expert&theme=dark" alt="Gif-expert-three" style="max-width: 45%;">
   </a>
   <a href="https://website-halo.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=website-halot&theme=dark" alt="Website-halo" style="max-width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=website-halo&theme=dark" alt="Website-halo" style="max-width: 45%;">
   </a>
   
 
