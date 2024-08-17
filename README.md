@@ -1,6 +1,4 @@
-<head>
-  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
-</head>
+
 <h1>Hi <img data-target="animated-image.replacedImage" alt="176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="display: block; opacity: 1;"> My name is Leonardo Huarayo</h1>
 <h2>Full stack developer</h2>
 <p>
