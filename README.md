@@ -44,10 +44,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Sección de Redes Sociales -->
-<p align="center" style="margin:20px 0">
-  <a href="https://github.com/huarayo" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px;" alt="GitHub">
-  </a>
+<p align="center" style="margin:20px 0; display:inline-block" >
   <a href="https://www.instagram.com/leohuarayo/" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 10px;" alt="Instagram">
   </a>
@@ -57,7 +54,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Estadísticas de GitHub -->
-<div align="center">
+<div align="center" style="margin:0 0 20px 0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
 </div>
 <div align="center">
