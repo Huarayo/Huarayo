@@ -54,7 +54,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Estadísticas de GitHub -->
-<div align="center" style="margin:0 0 20px 0">
+<div align="center" margin-bottom:"20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
 </div>
 <div align="center">
