@@ -51,7 +51,8 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn">
   </a>
   <a href="https://www.tiktok.com/@soyleo.arg.men" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" alt="Tiktok">
+    <i class="fab fa-tiktok" style="font-size: 32px;"></i>
+  </a>
   </a>
 </p>
 
