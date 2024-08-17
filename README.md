@@ -50,11 +50,14 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <a href="https://www.linkedin.com/in/huarayo-leonardo-08601525b/" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn">
   </a>
+  <a href="https://www.tiktok.com/@soyleo.arg.men" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" alt="Tiktok">
+  </a>
 </p>
 
 <!-- Estadísticas de GitHub -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
+<div align="center">
   <a href="https://github.com/Huarayo/chat-realtime" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" alt="Chat Realtime Repo" style="max-width: 45%;">
   </a>  
@@ -64,11 +67,9 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <a href="https://website-halo.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=website-halo&theme=dark" alt="Website-halo" style="max-width: 45%;">
   </a>
-  
-
+  <a href="https://tetris-huarayo.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=Tetris&theme=dark" alt="Tetris" style="max-width: 45%;">
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huarayor&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 90%;">
-</div>
 
