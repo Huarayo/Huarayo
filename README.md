@@ -43,7 +43,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Sección de Redes Sociales -->
-<p align="center">
+<p align="center" style="margin:20px">
   <a href="https://github.com/huarayo" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px;" alt="GitHub">
   </a>
@@ -52,9 +52,6 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   </a>
   <a href="https://www.linkedin.com/in/huarayo-leonardo-08601525b/" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px;" alt="LinkedIn">
-  </a>
-  <a href="https://www.tiktok.com/@soyleo.arg.men" target="_blank" rel="nofollow">
-    <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" width="32" height="32" style="margin-right: 10px;" alt="TikTok">
   </a>
 </p>
 
