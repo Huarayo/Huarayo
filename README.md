@@ -40,8 +40,8 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Sección de Redes Sociales -->
-<p>
-  <a href="https://github.com/huarayor" target="_blank">
+<p align="center">
+  <a href="https://github.com/huarayo" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px;" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/leohuarayo/" target="_blank" rel="nofollow">
@@ -57,10 +57,12 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
   <a href="https://github.com/Huarayo/chat-realtime" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" alt="Chat Realtime Repo" style="max-width: 45%;">
+  </a>  
+  <a href="https://react-gif-expert-three.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=react-gif-expert&theme=dark" alt="Gif-expert-three" style="max-width: 45%;">
   </a>
-  <a href="react-gif-expert-three.vercel.app" target="_blank">
-    <p>hola mundo</p>
-<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=react-gif-expert&theme=dark" alt="Gif-expert-three" style="max-width: 45%;"> -->
+  <a href="https://website-halo.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=website-halot&theme=dark" alt="Website-halo" style="max-width: 45%;">
   </a>
   
 
