@@ -38,12 +38,13 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   Social
 </h3>
 <!-- Banner Principal -->
+
 <p align="center">
   <img src="https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg" alt="Banner" style="max-width: 100%;">
 </p>
 
 <!-- Sección de Redes Sociales -->
-<p align="center" style="margin:20px">
+<p align="center" style="margin:20px 0">
   <a href="https://github.com/huarayo" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px;" alt="GitHub">
   </a>
@@ -56,7 +57,9 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 </p>
 
 <!-- Estadísticas de GitHub -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
+</div>
 <div align="center">
   <a href="https://github.com/Huarayo/chat-realtime" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" alt="Chat Realtime Repo" style="max-width: 45%;">
