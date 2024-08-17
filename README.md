@@ -57,7 +57,7 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
 <div align="center" style="padding: 20px 0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
 </div>
-<div align="center">
+<div align="center" style="margin-top: 20px 0">
   <a href="https://github.com/Huarayo/chat-realtime" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" alt="Chat Realtime Repo" style="max-width: 45%;">
   </a>  
