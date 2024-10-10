@@ -56,8 +56,8 @@ Español (English description below) 🌟Soy Full Stack Developer 👩‍💻, e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huarayo&theme=dark&layout=compact" alt="Top Langs" style="max-width: 45%;">
 </div>
 <div align="center" style="margin-top: 20px 0">
-  <a href="https://github.com/Huarayo/chat-realtime" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=chat-realtime&theme=dark" alt="Chat Realtime Repo" style="max-width: 45%;">
+  <a href="[https://github.com/Huarayo/chat-realtime](https://github.com/Huarayo/whatsappRealTime" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=whatsappRealTime&theme=dark" alt="whatsappRealTime" style="max-width: 45%;">
   </a>  
   <a href="https://react-gif-expert-three.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huarayo&repo=react-gif-expert&theme=dark" alt="Gif-expert-three" style="max-width: 45%;">
